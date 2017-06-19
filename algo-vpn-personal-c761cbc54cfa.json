@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "algo-vpn-personal",
+  "private_key_id": "c761cbc54cfa59acd96edbfcef077bf9e658b5f9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCx/Gzycs4cuWUI\nXE3Mk2323UW9+bmXMojaAzdqsUBFBOOagJ1CFTP4Ln219N0EgABOiSLYl44NS/Hb\nhs0tXxxwYBQ0KF+1JszvrcU1NMFXyIv9JKDHhJM3MpEs3kyhr+vK5m/llZQJlAWz\n8DYh7UVe6V9OCi5nJfH+3tvXucAlZpQVmsVTtjQhBSqpXrNZSBj/R9ntdNDPbtFD\ntccNvNAzzZ6+a/yxIhgGbIPzg0nrmmN//AccK6LrY/gULY6fKylm1qPBUi0UBhRS\nFefVghhSLCQeZIosNz9rzFRKqxNXt1whIMSbWF9LgVznUjyKZImF+JAudAEZHaLA\nSscodqeLAgMBAAECggEAF27xFyCnY1/DXgztD0yv0ytB1efNmAsGupFm1+y7Vfr1\nTm+1hLBO9dOFKJIzETcbEzv58wNNKBICJ1GBrQITN/ZmYpGYPDz+CWZbCwzFkd2t\nFKigZHRff4pwU7R26WjEhiO9wr/lTDeJYq3zKpdXJU5bhmZPwrPbvx8vWaEym5nE\nGgQqLrblL/O8abcQHlgB+TVjpPK+p63d69JCuMVcUtYmC+RbTzPDp/Jz7Tx29c6u\ngsC6NsnHhO0c13FbvxHewcYeC8NHgvw/jxo4IIUIygXKyk+GdG+x2fIK2GxxlrKv\n3ICrb84TZdVOd1njfKQCeRiLnqqZhRtnfZIsS6bBYQKBgQDYL3mtIVv/D/hRQWIi\nZ8R8aE+XZILnXFIC7+bqTwM1lJ9L2aa8QzldghxLMscF38i0EPaZl52eYUFR8NOi\nB9TORqWwQ31SGwUT68cbrhWfguKiFoYARJsE/kVV3UDM0ZOeV85qxwsGeulPrgiW\n42EtkDPcONItOjLz8FPkRQpN6wKBgQDSw/UW3XtGxM2GRlevW2ZCbwY9CUCbL02Y\nBv1DdWU1FpXMX2VXHBCMepu7vIaPEkDJZWa+VgTZKEDFIDcaE3gvE+HbzeYVwRHl\nlUuhgyux75gqk/UftIuXFJFPYW9g0krE8iU9pPb1kwZDeBYw2B2ZInbf3Q9BsyCa\nhPiJcPGE4QKBgBm4RDyhzGUjDEL2iWtYdxrp+hYj4iMOa79ntUxJDDOys+T9RwX8\n5XVHhoA30U/UmPc7UWtii2ENZw0NntAXKG1GIG5BCUbcahU9ptmXM4FfvADWtyiP\nAPZuHeeiRBRaFrru7WLsvVYPB3TwWptBAA3AqzrXE8JHu0okXIa65AfzAoGBAJhc\nMACne0ZdXnWCxEBvwiykNc5Jsfp854rPAqaRZuhJu2BSVd/y2cOznoDIeD1U5KCy\nPOO7KyYQg0H9V9fx2x+tL8jFv15ag6WDl3jaaevnWAjvjHOvAHnm1GSd+vXzDznw\nEhvN9Pjxn8WGOgR1NnBNCcIq+6xy4U7ScRhqHS4BAoGBANQp43PPpXn5s2r+fqyy\necsnIUUAIwS8vopip7NYqCuTNBvFB43OAbLQ7DlvH9l6paUWKFl6R5jUz3toNbrs\n1fS5t2d3ui8BkWmsUWtvzuDcYxf+CpN3eia23/cB70b6D3oUB5lVhhNTO+cmdxtl\nrmeR3HjajvNG3C/nZwmdX4UH\n-----END PRIVATE KEY-----\n",
+  "client_email": "algo-vpn-personal@appspot.gserviceaccount.com",
+  "client_id": "107252033191069857953",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/algo-vpn-personal%40appspot.gserviceaccount.com"
+}
